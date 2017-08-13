@@ -38,7 +38,7 @@
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
 							<h1>R files</h1>
-							<li><a href="/Manufacturing-Backorder-project/submission/1/1XGB.R">Relative path Link: XGboost.R</a></li>
+							<li><a href="/Manufacturing-Backorder-project/submission/1/1XGB3.R">Relative path Link: XGboost.R</a></li>
 							<p>Test Results: Using Holdout cross validation method<br />
 							KS=0.70</p>
 							<ul class="actions">
